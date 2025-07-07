@@ -1,0 +1,3 @@
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\x64\Debug\Laba 3.vcxprojAssemblyReference.cache
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\x64\Debug\Laba3.MyForm.resources
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\x64\Debug\Laba 3.vcxproj.GenerateResource.cache

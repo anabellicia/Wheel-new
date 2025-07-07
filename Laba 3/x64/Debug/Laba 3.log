@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(27,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(614,56): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(626,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(627,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(631,29): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(681,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(682,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(683,58): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(684,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(684,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(699,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(700,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(701,58): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(702,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(702,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(730,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(731,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(732,58): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(733,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(733,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(750,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(751,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(752,58): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(753,92): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\SKOOMAN\source\repos\My0203\Laba 3\MyForm.h(753,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba 3.vcxproj -> C:\Users\SKOOMAN\source\repos\My0203\x64\Debug\Laba 3.exe
